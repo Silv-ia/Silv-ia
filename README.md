@@ -11,15 +11,15 @@ My interest in tech started in High School, where my team constructed a two mete
 `GDPR` `NIS 2` `CRA` `ISO 27001`
 
 ## 🗺️ Projects
-##### Bachelor's thesis: Predicting occupant window opening behaviour during the winter (duo project)
+#### Bachelor's thesis: Predicting occupant window opening behaviour during the winter (duo project)
 Pre-processed time series sensor data from [KTH Live-In Lab](https://www.liveinlab.kth.se/en) and modelled window interactions using multivariate logistic regression.
 `Python` `sci-kit learn` `pandas` `ROC AUC`
 
-##### Research Internship: [AIDA-B](https://www.liveinlab.kth.se/en/projekt/r-d-projects/ai-driven-predictive-maintenance-for-buildings-aida-b-1.1397533)
+#### Research Internship: [AIDA-B](https://www.liveinlab.kth.se/en/projekt/r-d-projects/ai-driven-predictive-maintenance-for-buildings-aida-b-1.1397533)
 Analyzed sensor data from the Live-In Lab to predict patterns of maintenance issues. 
 `Python` `pandas`
 
-##### Project: Repair corrupted JPEG files using a bGPT model.
+#### Project: Repair corrupted JPEG files using a bGPT model.
 Created training data by isolating the body of JPEG files and corrupting them by randomly flipping bits. 
 `Python` ``
 
