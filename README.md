@@ -1,7 +1,7 @@
 # ✨ About Me ✨
-First year **MSc Cybersecurity** student @KTH – Royal Institute of Technology, with a BSc in Information Technology. My courses have ranged from data storage, algorithms, datastructures, complexity, to hardware, networks, and cryptography. My current interests are mainly digital forensics, specifically file, and network forensics! 
+First year **MSc Cybersecurity** student @KTH – Royal Institute of Technology, with a BSc in Information Technology. My courses have ranged from data storage, algorithms, datastructures, complexity, to hardware, networks, and cryptography. My current interests are mainly digital forensics, ethical hacking, and threat intelligence.
 
-My interest in tech started in High School, where my team constructed a two meters tall dancing robotic arm using plastic pipes and servo motors. We 3D printed holders that attached the pipes to the motors, and I was responsible for the Arduino and programming, but also aided the CAD design process. Her name is Lilith, and we wanted to combine tech with aesthetics, since most members of the group have a background in dancing. 
+My interest in tech started in High School, where my degree project team constructed a two meters tall dancing robotic arm using plastic pipes and servo motors. We 3D printed holders that attached the pipes to the motors, and I was responsible for the Arduino and programming, but also aided the CAD design process. The robot was called Lilith, and we wanted to combine tech with aesthetics, since most members of the group have a background in dancing. 
 
 ## 💻 Tech
 `Python` `Java` `C` `Arduino` `Assembly` `Prolog` `Troupe` `HTML` `JavaScript` `SQL` `bash` `Linux` `Windows`
