@@ -11,8 +11,8 @@ My interest in tech started in High School, where my degree project team constru
 `GDPR` `NIS 2` `CRA` `ISO 27001`
 
 ## 🗺️ Projects
-#### Cryptography: AES ECB mode in Python [Applied Crypto Repo](https://github.com/Silv-ia/DD2520)
-`AES` `Python`
+#### Cryptography: AES ECB mode in Python and Cryptanalysis [Applied Crypto Repo](https://github.com/Silv-ia/DD2520)
+`AES` `Python` 
 #### Bachelor's thesis: Predicting occupant window opening behaviour during the winter (duo project)
 Pre-processed time series sensor data from [KTH Live-In Lab](https://www.liveinlab.kth.se/en) and modelled window interactions using multivariate logistic regression.
 `Python` `sci-kit learn` `pandas` `ROC AUC`
