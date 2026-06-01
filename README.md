@@ -28,6 +28,9 @@ Created training data by isolating the body of JPEG files and corrupting them by
 
 `Python`
 
+#### Project: Snake game on PIC32. [Snake repo](https://github.com/Silv-ia/snake/blob/main/main.c)
+`C`
+
 <!--
 **Silv-ia/Silv-ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
