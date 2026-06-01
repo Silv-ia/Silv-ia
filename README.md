@@ -35,6 +35,9 @@ Created training data by isolating the body of JPEG files and corrupting them by
 `Prolog`
 
 <!--
+
+### ADD DD2525 labs! and project?
+
 **Silv-ia/Silv-ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
