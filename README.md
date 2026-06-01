@@ -13,7 +13,7 @@ My interest in tech started in High School, where my degree project team constru
 ## 🗺️ Projects
 #### Cryptography: AES ECB mode in Python and Cryptanalysis [Applied Crypto Repo](https://github.com/Silv-ia/DD2520)
 `AES` `Python` 
-#### Bachelor's thesis: Predicting occupant window opening behaviour during the winter (duo project)
+#### Bachelor's thesis: Predicting occupant window opening behaviour during the winter (duo project). [KTH Diva Portal](https://kth.diva-portal.org/smash/record.jsf?dswid=2577&pid=diva2%3A2033123&c=1&searchType=SIMPLE&language=en&query=silvia+lu&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 Pre-processed time series sensor data from [KTH Live-In Lab](https://www.liveinlab.kth.se/en) and modelled window interactions using multivariate logistic regression.
 
 `Python` `sci-kit learn` `pandas` `ROC AUC`
