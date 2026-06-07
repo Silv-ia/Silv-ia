@@ -16,7 +16,7 @@ My interest in tech started in High School, where my degree project team constru
 #### Bachelor's thesis: Predicting occupant window opening behaviour during the winter (duo project). [KTH Diva Portal](https://kth.diva-portal.org/smash/record.jsf?dswid=2577&pid=diva2%3A2033123&c=1&searchType=SIMPLE&language=en&query=silvia+lu&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 Pre-processed time series sensor data from [KTH Live-In Lab](https://www.liveinlab.kth.se/en) and modelled window interactions using multivariate logistic regression.
 
-`Python` `sci-kit learn` `pandas` `ROC AUC`
+`Python` `sci-kit learn` `pandas` `ROC`
 
 #### Research Internship: [AIDA-B](https://www.liveinlab.kth.se/en/projekt/r-d-projects/ai-driven-predictive-maintenance-for-buildings-aida-b-1.1397533)
 Analyzed sensor data from the Live-In Lab to predict patterns of maintenance issues. 
