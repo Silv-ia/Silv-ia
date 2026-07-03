@@ -5,47 +5,50 @@ My interest in tech started in High School, where my degree project team constru
 
 [website](https://laira.online)
 
-## 💻 Tech
+# 💻 Tech
 `Python` `Java` `C` `Arduino` `Assembly` `Prolog` `Troupe` `HTML` `JavaScript` `SQL` `bash` `Linux` `Windows` 
-### 🛠️ Tools 
+## 🛠️ Tools 
 `Wireshark` `FTK` `Volatility` `SIFT/Kali` `Burp` `React`
-### 📃 Regulations
+## 📃 Regulations
 `GDPR` `NIS 2` `CRA` `ISO 27001`
 
-## 🗺️ Projects
+# 🗺️ Projects
 
-#### Cryptography: AES ECB mode in Python and Cryptanalysis [Applied Crypto Repo](https://github.com/Silv-ia/DD2520)
+### Cryptography: AES ECB mode in Python and Cryptanalysis [Applied Crypto Repo](https://github.com/Silv-ia/DD2520)
 `AES` `Python` 
 
-#### Bachelor's thesis: Predicting occupant window opening behaviour during the winter (duo project). [KTH Diva Portal](https://kth.diva-portal.org/smash/record.jsf?dswid=2577&pid=diva2%3A2033123&c=1&searchType=SIMPLE&language=en&query=silvia+lu&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
+### Bachelor's thesis: Predicting occupant window opening behaviour during the winter (duo project). [KTH Diva Portal](https://kth.diva-portal.org/smash/record.jsf?dswid=2577&pid=diva2%3A2033123&c=1&searchType=SIMPLE&language=en&query=silvia+lu&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 Pre-processed time series sensor data from [KTH Live-In Lab](https://www.liveinlab.kth.se/en) and modelled window interactions using multivariate logistic regression.
 
 `Python` `sci-kit learn` `pandas` `ROC`
 
-#### Research Internship: [AIDA-B](https://www.liveinlab.kth.se/en/projekt/r-d-projects/ai-driven-predictive-maintenance-for-buildings-aida-b-1.1397533)
+### Research Internship: [AIDA-B](https://www.liveinlab.kth.se/en/projekt/r-d-projects/ai-driven-predictive-maintenance-for-buildings-aida-b-1.1397533)
 Analyzed sensor data from the Live-In Lab to predict patterns of maintenance issues. 
 
 `Python` `pandas`
 
-#### Project: Repair corrupted JPEG files using a bGPT model.
+### Project: Repair corrupted JPEG files using a bGPT model.
 Created training data by isolating the body of JPEG files and corrupting them by randomly flipping bits. 
 
 `Python`
 
-#### [wip] Project: Personal website (React) 
+### [wip] Project: Personal website (React) 
 [laira.online](https://laira.online)
 
 `JavaScript` `React`
 
-#### Project: Snake game on PIC32. [Snake Repo](https://github.com/Silv-ia/snake/blob/main/main.c)
+### Project: Snake game on PIC32. [Snake Repo](https://github.com/Silv-ia/snake/blob/main/main.c)
+
 `C`
 
-#### Hardware Project: Handshake game using WiFi and gloves. [Project Repo](https://github.com/oggiv/team-lima/tree/main)
+### Hardware Project: Handshake game using WiFi and gloves. [Project Repo](https://github.com/oggiv/team-lima/tree/main)
 A Twister-variation game where participants wear gloves with coloured lights and have to find the person with the same colour on the glove and shake hands. Each round is shorter. Part of Scrum project course.
 I 3D-printed microprocessor protection pieces and everyone contributed to the game logic and server-client connection codes. 
+
 `Python` `Network` `CAD` 
 
-#### Labs: Prolog (duo). [Prolog Repo](https://github.com/Silv-ia/logik)
+### Labs: Prolog. [Prolog Repo](https://github.com/Silv-ia/logik)
+
 `Prolog`
 
 <!--
