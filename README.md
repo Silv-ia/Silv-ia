@@ -40,6 +40,11 @@ Created training data by isolating the body of JPEG files and corrupting them by
 #### Project: Snake game on PIC32. [Snake Repo](https://github.com/Silv-ia/snake/blob/main/main.c)
 `C`
 
+#### Hardware Project: Handshake game using WiFi and gloves. [Project Repo](https://github.com/oggiv/team-lima/tree/main)
+A Twister-variation game where participants wear gloves with coloured lights and have to find the person with the same colour on the glove and shake hands. Each round is shorter. Part of Scrum project course.
+I 3D-printed microprocessor protection pieces and everyone contributed to the game logic and server-client connection codes. 
+`Python` `Network` `CAD` 
+
 #### Labs: Prolog (duo). [Prolog Repo](https://github.com/Silv-ia/logik)
 `Prolog`
 
